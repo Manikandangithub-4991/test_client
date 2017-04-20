@@ -1,8 +1,8 @@
 import unittest
 
 
-from test_client.TestA import TestA
-from test_client.TestB import TestB
+from test_client1.TestA import TestA
+from test_client1.TestB import TestB
 
 
 class SampleTestSuite(unittest.TestCase):
