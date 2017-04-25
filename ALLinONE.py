@@ -9,4 +9,4 @@ class ALLinONE(unittest.TestCase):
         # module2 = ChatTest_TicketQuerying.suite()
         # module3 = ChatTest_MultilingualHindi.suite()
         suite = unittest.TestSuite([module1, module2])
-        unittest.TextTestRunner(verbosity=2).run(suite
+        unittest.TextTestRunner(verbosity=2).run(suite)
