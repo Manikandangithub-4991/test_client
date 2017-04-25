@@ -3,7 +3,7 @@ import unittest
 
 class A(unittest.TestCase):
     def test_valid(self):
-        self.assertEqual(1,1)
+        self.assertEqual(1,2)
     def test_valid1(self):
         self.assertEqual(2,2)
 
